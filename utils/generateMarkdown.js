@@ -14,19 +14,15 @@ function generateMarkdown(data) {
   
   * [Usage](#usage)
   
-  * [License](#license)
-  
   * [Contributing](#contributing)
   
   * [Tests](#tests)
   
   * [Questions](#questions)
   
-  * [Acknowledgements](#acknowledgements)
-  
   # Installation
   
-  The following necessary dependencies must be installed to run the application properly: ${data.Installation}
+  The following must be installed to run this program: ${data.Installation}
   
   # Usage
   
