@@ -22,18 +22,7 @@ const questions = [
       message: "What necessary dependencies must be installed to run this app?",
       name: "Installation",
     },
-    {
-      type: "input",
-      message: "Please provide information usage for your project:",
-      name: "Usage",
-    },
     
-
-    {
-      type: "input",
-      message: "Please advise any contributions you have made:",
-      name: "Contributor",
-    },
     {
       type: "input",
       message: "Please advise your test opporation performed for your project:",
